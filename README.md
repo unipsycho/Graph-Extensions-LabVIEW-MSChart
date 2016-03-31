@@ -10,6 +10,9 @@ This component for LabVIEW uses the Microsoft .NET Charts component, which is fr
 
 Once installed, you can simply download the source code for this repository, and open the project file in the archive to view samples of the various charts and start using or playing with it in LabVIEW.  This source repository is in LabVIEW 2015, it would be great to have someone contribute if they want to save back older versions.
 
+## Examples
+Several examples are included, one to demo through all the chart types with some basic data.  Another for multi plots, again showing a number of options.
+
 ## Chart Options
 
 ### Legends
